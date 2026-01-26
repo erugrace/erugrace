@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @erugrace
+- 👋 Hi, I’m @Grace
 - 👀 I’m interested in Front-end Development and full stack projects
 - 🌱 I’m currently learning Javascript and python.
 - 💞️ I’m looking to collaborate on various front-end projects
