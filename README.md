@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Grace
+- 👋 Hi, I’m @Grace Aderinsola Sodipo
 - 👀 I’m interested in Front-end Development and full stack projects
 - 🌱 I’m currently learning Javascript and python.
 - 💞️ I’m looking to collaborate on various front-end projects
